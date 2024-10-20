@@ -1,0 +1,5 @@
+iframe {
+    width: 75%;
+    height: 300px;
+    object-fit: contain; /* atau cover */
+}
